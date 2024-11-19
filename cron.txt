@@ -1,0 +1,1 @@
+0 12 * * * cd C:\Users\peter\Downloads\ccxt-master\ccxt-master && python3 commit_bot.py
